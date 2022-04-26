@@ -55,6 +55,15 @@ array-union@^3.0.1:
   resolved "https://registry.yarnpkg.com/array-union/-/array-union-3.0.1.tgz#da52630d327f8b88cfbfb57728e2af5cd9b6b975"
   integrity sha512-1OvF9IbWwaeiM9VhzYXVQacMibxpXOMYVNIvMtKRyX9SImBXpKcFr8XvFDeEslCyuH/t6KRt7HEO94AlP8Iatw==
 
+awesome-webp-converter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/awesome-webp-converter/-/awesome-webp-converter-1.0.0.tgz#c1960c541aab18b34b190833b66139b4431ff758"
+  integrity sha512-da1F+QCAQmNuGOLRCTG9yIEvjrGwBR6sH9oDZZ+fYahKDiJQVJyj3ECg1GNDnACgGt9EZBUEMVprZtMuS2xyyQ==
+  dependencies:
+    cli-progress "^3.10.0"
+    imagemin "^8.0.1"
+    imagemin-webp "^7.0.0"
+
 balanced-match@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"

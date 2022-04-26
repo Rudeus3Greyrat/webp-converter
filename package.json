@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "awesome-webp-converter": "^1.0.0",
     "cli-progress": "^3.10.0",
     "imagemin": "^8.0.1",
     "imagemin-webp": "^7.0.0"

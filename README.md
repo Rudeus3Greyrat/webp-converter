@@ -11,7 +11,7 @@ Convert all pngs and jpgs to webp in one single command!
    or
 
    ```
-   yarn awesome-webp-converter -g
+   yarn add awesome-webp-converter -g
    ```
 
    
