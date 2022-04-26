@@ -1,8 +1,9 @@
 {
-  "name": "webp-converter",
+  "name": "awesome-webp-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": false,
   "type": "module",
   "preferGlobal": true,
   "bin": {
